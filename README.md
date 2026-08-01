@@ -12,3 +12,4 @@ Project#1
 
 🕹️ Game Controls & RulesControls: Move your mouse up and down on the screen. Your paddle will smoothly glide to follow your cursor.Objective: Score points by getting the ball past the computer's paddle on the left side of the screen.Dynamic Speed: Every time a point is scored by either you or the computer, the ball physics automatically accelerate to increase the difficulty!Winning Condition: The game ends as soon as either player reaches 10 points, freezing the screen and displaying a white "Game Over" graphic.
 
+JavaScript Crash Course: A Hands-On, Project-Based Introduction to Programming
